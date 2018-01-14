@@ -1,4 +1,4 @@
-# Basic Webpack configuration using Babel
+# Basic Webpack configuration with Babel
 
 ### Installation
 ```bash
